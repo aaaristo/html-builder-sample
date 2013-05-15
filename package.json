@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "description": "TEST website",
+  "version": "0.1.0",
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-connect": "~0.2.0",
+    "grunt-html-builder": "~0.4.20",
+    "grunt-contrib-copy": "~0.4.0",
+    "grunt-s3": "~0.2.0-alpha.1",
+    "grunt-cloudfront-clear": "0.0.1",
+    "grunt-contrib-compass": "~0.2.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "web site"
+  ]
+}
